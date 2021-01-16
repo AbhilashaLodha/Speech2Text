@@ -17,3 +17,5 @@ The created model is saved in "model" directory by the name of "speech2text.hdf5
 The accuracies achieved on training the model for 30 epochs are:
 - Train Accuracy : 86.77%
 - Test Accuracy : 79.84%
+
+*Accuracies can be improvised by training the model for more number of epochs on a GPU.
