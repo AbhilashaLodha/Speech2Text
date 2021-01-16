@@ -1,0 +1,5 @@
+The data is being downloaded from ‘Tensorflow Speech Recognition Challenge’ from Kaggle -
+https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
+
+The ‘train’ folder is unzipped and the audio subfolders present in “train” folder are kept inside the “data” folder.
+
