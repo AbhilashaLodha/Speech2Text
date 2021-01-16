@@ -14,6 +14,6 @@ The steps followed are as follows:
 - Prections on Test data
 
 The created model is saved in "model" directory by the name of "speech2text.hdf5".
-The accuracies achieved are:
+The accuracies achieved on training the model for 30 epochs are:
 - Train Accuracy : 86.77%
 - Test Accuracy : 79.84%
