@@ -11,7 +11,7 @@ The steps followed are as follows:
 - Building Model from scratch
 - Model Training
 - Predictions on Validation dataset
-- Prections on Test data
+- Predictions on Test data
 
 The created model is saved in "model" directory by the name of "speech2text.hdf5".
 The accuracies achieved on training the model for 30 epochs are:
